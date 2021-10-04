@@ -1,6 +1,7 @@
 //#Ejercicio #3
-//Dada una lista de palabras y una palabra compuesta meta, 
-//tu objetivo es encontrar las dos palabras que combinadas forman la palabra meta, devolviendo ambas palabras en el mismo orden 
+//Dada una lista de palabras y una palabra compuesta meta,-
+//tu objetivo es encontrar las dos palabras que combinadas forman la palabra meta,-
+//devolviendo ambas palabras en el mismo orden-
 //en que aparecen en la lista, y sus respectivos índices en el orden en que deben combinarse para formar la palabra meta. 
 //Las palabras en la lista que se recibe pueden repetirse, 
 //pero solo habrá un par único conforma la palabra meta. 
@@ -20,4 +21,3 @@ function fn(words, target) {
         return null
     }
     console.log(fn(['super','bow','bowl','tar','get','book','let'], "superbowl"));
-    

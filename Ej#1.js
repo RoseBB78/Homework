@@ -1,6 +1,6 @@
 // Ejercicio #1
-//Implementa una función la cual se comporta como el comando 'uniq-c' de Unix.
-//Este comando toma por entrada una secuencia y devuelve otra secuencia en la cual todos los elementos duplicados
+//Implementa una función la cual se comporta como el comando 'uniq-c' de Unix.-
+//Este comando toma por entrada una secuencia y devuelve otra secuencia en la cual todos los elementos duplicados-
 //de manera seguida han sido reducido a una única instancia junto con el número de ocurrencias en la secuencia original.
 
 function uniqCount(...elements){
