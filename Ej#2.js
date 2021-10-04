@@ -14,4 +14,6 @@ console.log (flat(arrays));
       return flat.concat(Array.isArray(toFlatten) ? flatten(toFlatten) : toFlatten);
     }, [('a', ['b', 2], 3, null, [[4], ['c']])]);
   }
+
 // returns ['a', 'b', 2, 3, null, 4, 'c']
+
