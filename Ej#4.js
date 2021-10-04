@@ -6,3 +6,4 @@ function squareDigits(n) {
   }
   
   console.log(squareDigits(9119));
+  
